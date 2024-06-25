@@ -1,9 +1,6 @@
 # Weather Check Application by Tanapong
 
-This project was bootstrapp5 with React App.
-
-## Available Scripts
-
+## Introduction
 In the project directory, you can run:
 
 ### `npm start`
