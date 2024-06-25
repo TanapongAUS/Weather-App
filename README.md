@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Weather Check Application by Tanapong
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapp5 with React App.
 
 ## Available Scripts
 
