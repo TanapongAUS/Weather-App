@@ -1,0 +1,35 @@
+.submit {
+    background-image: linear-gradient(to top right, #408000, #003d99);
+    border-color: transparent;
+    border-width: 3px;
+}
+
+.fullPageDay {
+    background-image: linear-gradient(to bottom right, #ce240e, #87cb10);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fullPageNight {
+    background-image: linear-gradient(to bottom right, #1d1d28, #045276);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.UnidentifiedPage {
+    background: #222020;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    width: 100%;
+    height: 95%;
+    object-fit: cover;
+}
