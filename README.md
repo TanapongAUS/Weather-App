@@ -12,20 +12,19 @@ Implement a search feature that allows users to enter a city location. Then, the
 ### 2. Display Map
 Implement a search feature that allows users to enter a city location. Then, the system displays the map of that location.
 ### 3. Display Dynamic Background
-The application's background changes based on the day and night of that city location.
-Day: Bright background.
-Night: Dark background.
+The application's background changes based on the day and night of that city location:
+Day: Bright background
+Night: Dark background
 ### 4. Display Weather Icons
-Display dynamic weather icons that reflect the current weather conditions.
-Use distinct icons for sunny, cloudy, and rainy conditions.
+Display dynamic weather icons that reflect the current weather conditions. Use distinct icons for sunny, cloudy, and rainy conditions.
 ### 5. Responsive Design
 The application is responsive and provides a seamless experience across different devices and screen sizes.
 
 ## API Used
-- Open Weather API
-- Google JavaScript API
+- Open Weather API (the API key is not provided within the committed files)
+- Google JavaScript API (the API key is not provided within the committed files)
 
 ## Deployment
 The application deployed on 2 domains:
-- [tdech.me], feel free to visit my portfolio website. The visitors can access the weather check application on the Nav bar.
-- [https://tanapongaus.github.io/Weather-App/], GitHub deployment.
+- [tdech.me](https://tdech.me/), feel free to visit my portfolio website. The visitors can access the weather check application on the Nav bar.
+- [https://tanapongaus.github.io/Weather-App/](https://tanapongaus.github.io/Weather-App/), GitHub deployment.
