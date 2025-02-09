@@ -27,4 +27,4 @@ The application is responsive and provides a seamless experience across differen
 ## Deployment
 The application deployed on domain:
 - [tdech.me](https://tdech.me/), feel free to visit my portfolio website. The visitors can access the weather check application on the Nav bar.
-- [https://tanapongaus.github.io/Weather-App/](https://tanapongaus.github.io/Weather-App/), GitHub deployment.
+#- [https://tanapongaus.github.io/Weather-App/](https://tanapongaus.github.io/Weather-App/), GitHub deployment.
