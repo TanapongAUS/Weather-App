@@ -66,7 +66,7 @@ function App() {
   //==========+++++==========
 
   return (
-    <div className={typeof weather.main === "undefined" ? ("UnidentifiedPage") 
+    <div className={typeof weather.main === "undefined" ? ("fullPageNight") 
       : (weather.weather[0].icon.charAt(2) === 'd' ? "fullPageDay" : "fullPageNight")}>
       
       <div className="row m-2">
